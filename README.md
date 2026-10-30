@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="paper/ProtoCoCoOp.pdf"><img alt="Report: 2-page PDF" src="https://img.shields.io/badge/report-2--page%20PDF-b31b1b"></a>
-  <a href="https://colab.research.google.com/github/giampyhatesyou/CLIP_Project-UniTn/blob/main/dl_project.ipynb"><img alt="Open in Colab" src="https://colab.research.google.com/assets/colab-badge.svg"></a>
+  <a href="https://colab.research.google.com/github/giampyhatesyou/CLIP_Proto-CoCoOp/blob/main/dl_project.ipynb"><img alt="Open in Colab" src="https://colab.research.google.com/assets/colab-badge.svg"></a>
   <img alt="Python 3.12" src="https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white">
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
   <img alt="CLIP ViT-B/16" src="https://img.shields.io/badge/CLIP-ViT--B%2F16-412991">
