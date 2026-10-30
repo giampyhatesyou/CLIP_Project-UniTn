@@ -1,3 +1,19 @@
 *.jpg
 *.tgz
 *.pth
+
+# Dataset downloads and training outputs created by the notebook
+data/
+results/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# LaTeX build files
+*.aux
+*.log
+*.fls
+*.fdb_latexmk
+*.out
+*.synctex.gz
